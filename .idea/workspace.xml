@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0655c708-1c3c-4505-88be-c6b58473a5b4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/taro-learn-japanese.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/taro-learn-japanese.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/login/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/login/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/login/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/server/login/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icon.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/add/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/add/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/add/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/add/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/deacon/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/deacon/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/detail/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/detail/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/detail/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/detail/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="0655c708-1c3c-4505-88be-c6b58473a5b4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,7 +16,7 @@
     <session id="-156654920">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.217" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
@@ -140,8 +122,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/deacon/index.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="57" column="6" lean-forward="true" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
+            <state relative-caret-position="315">
+              <caret line="66" column="31" lean-forward="true" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
               <folding>
                 <element signature="e#55#101#0" expanded="true" />
               </folding>
@@ -316,7 +298,7 @@
       <workItem from="1583052465610" duration="129832000" />
       <workItem from="1583491291790" duration="10261000" />
       <workItem from="1583540138017" duration="24117000" />
-      <workItem from="1588556188993" duration="1314000" />
+      <workItem from="1588556188993" duration="1388000" />
     </task>
     <task id="LOCAL-00001" summary="add files">
       <created>1588557128944</created>
@@ -336,7 +318,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165524000" />
+    <option name="totallyTimeSpent" value="165598000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -362,7 +344,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295082" />
       <window_info anchor="bottom" id="TypeScript" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3295082" />
@@ -592,8 +574,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/deacon/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="57" column="6" lean-forward="true" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
+        <state relative-caret-position="315">
+          <caret line="66" column="31" lean-forward="true" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
           <folding>
             <element signature="e#55#101#0" expanded="true" />
           </folding>
