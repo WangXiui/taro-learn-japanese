@@ -1,0 +1,92 @@
+.add {
+  // overflow: auto;
+
+  &-form {
+    padding: 10px 0 20px;
+
+    &::after {
+      border: none;
+    }
+  }
+
+  &-module {
+    padding: 0 10px;
+    margin: 0 0 20px;
+
+    &_title {
+      position: relative;
+      margin-bottom: 20px;
+      padding-left: 10px;
+      color: #6a6a77;
+      font-size: 14px;
+      line-height: 1.5;
+
+      &::before {
+        content: "";
+        display: inline-block;
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 2PX;
+        height: 100%;
+        background-color: #6190e8;
+        box-shadow: 0 5px 5px 0 rgba(97, 144, 232, .2);
+        border-radius: 1PX;
+      }
+    }
+
+    &_input {
+      padding: 0;
+      margin: 0 0 0 5%;
+    }
+
+    &_img {}
+
+    &_textarea {
+      margin: 20px;
+      width: initial;
+    }
+
+    &_audio {
+      border: none;
+      margin: 0;
+    }
+
+    &_audioBox {
+      display: flex;
+      padding-left: 5%;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    &_sliderModule {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    &_sliderBar,at-slider {
+      flex-grow: 1;
+      margin-right: 5px;
+    }
+    .at-slider__text{
+      width: auto;
+      font-size: 14px;
+    }
+  }
+
+  &-formButtons {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  &-submit,
+  &-reset,
+  &-module_audio,
+  &-module_btn {
+    display: inline-block;
+    font-size: 14px;
+    height: 30px;
+    line-height: 30px;
+  }
+}
